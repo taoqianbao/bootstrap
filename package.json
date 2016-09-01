@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "ysbbase",
+  "description": "YSB UI framework.",
   "version": "3.3.7",
   "keywords": [
     "css",
@@ -11,8 +11,8 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
-  "author": "Twitter, Inc.",
+  "homepage": "#",
+  "author": "YSB, Inc.",
   "scripts": {
     "change-version": "node grunt/change-version.js",
     "update-shrinkwrap": "npm shrinkwrap --dev && shx mv ./npm-shrinkwrap.json ./grunt/npm-shrinkwrap.json",
